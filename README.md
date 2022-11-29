@@ -1,2 +1,2 @@
-# AI- Malayria Plosynoium species detection
+# AI- Malayria Plosmodium species detection
  This model will detect the certain species of malaria
